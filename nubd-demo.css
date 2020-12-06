@@ -1,0 +1,265 @@
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+.header{
+	overflow: hidden;
+	height:auto;
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	align-items: center;
+	margin-bottom: 30px;
+}
+hr{
+	border-top:5px solid #e7eae8;
+}
+.frst{
+	font-size: 27.333px;
+	font-weight:bold;
+	color: #822491;
+}
+.scnd{
+	font-size: 27.333px;
+	font-weight: bold;
+	color: #faa813;
+}
+.content-left{
+	color: #FFF;
+	width: 25%;
+	/*background-color: #C31EF4;*/
+	float: left;
+	padding-left: 0%;
+	padding-right: 0%;
+	text-align: center;
+}
+.content {
+	width: 50%; 
+	height: 100%;
+	/*background-color: #efefef;*/
+	overflow: hidden;
+	float: left;
+	text-align: center; 
+}
+.content-right{
+	width:25%;
+	height: 100%;
+	/*background-color: #F31E4C;*/
+	overflow: hidden;
+	color: #FFF;
+	text-align: center;
+}
+/*Logo div*/
+.logo{
+	text-align: center;
+	background-color:#005275;
+	border-bottom: 20px solid #550135;
+	margin-bottom: 50px;
+}
+/*hEADER2*/
+.header2{
+	height:auto;
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom:100px;
+}
+.hdr{
+	font-size: 22.55px;
+	font-weight: bold;
+	color: #00803c;
+}
+.notice{
+	width: 80%;
+	height:auto;
+	margin: 0 auto;
+}
+.notice-div{
+	overflow: hidden;
+	float: left;
+	height: 150px;
+	width: 25%;
+	text-align: left;
+	background-image: url("http://1.bp.blogspot.com/-2mu0KL8rYXc/T5gWeT1x0RI/AAAAAAAAA5g/lgd2fCRJd0M/s200/man-with-tick-box.jpg"); 
+	background-repeat: no-repeat;
+}
+.notice4{
+	width: auto;
+	max-width: 80%;
+	min-width: 900px;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+.notice-p{
+	font-size: 12px;
+	padding-left: 5%;
+	color: #300aff;
+	text-align: left;
+
+}
+.notice-div{
+	color: #2d3b58;
+}
+.notice-board{
+	height: auto;
+	width: 80%;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 150px;
+}
+.header22{
+	overflow: hidden;
+	float: left;
+	height: auto;
+	width: 50%;
+	text-align: left;
+}
+.content-left1{
+	color: #FFF;
+	width: 35%;
+	/*background-color: #C31EF4;*/
+	float: left;
+	padding-left: 0%;
+	padding-right: 0%;
+	text-align: center;
+}
+.content1 {
+	width: 30%; 
+	height: 100%;
+	/*background-color: #efefef;*/
+	overflow: hidden;
+	float: left;
+	text-align: center; 
+}
+.content-right1{
+	width:35%;
+	height: 100%;
+	/*background-color: #F31E4C;*/
+	overflow: hidden;
+	color: #FFF;
+	text-align: center;
+}
+.content-left2{
+	color: #FFF;
+	width: 25%;
+	/*background-color: #C31EF4;*/
+	float: left;
+	padding-left: 0%;
+	padding-right: 0%;
+	text-align: center;
+}
+.content2 {
+	width: 42%; 
+	height: 100%;
+	/*background-color: #efefef;*/
+	overflow: hidden;
+	float: left;
+	text-align: center; 
+}
+.content-right2{
+	width:25%;
+	height: 100%;
+	/*background-color: #F31E4C;*/
+	overflow: hidden;
+	color: #FFF;
+	text-align: center;
+}
+#notice ul li span.numbers {
+    /*float: left;*//*
+    padding: 5px 20px 5px 20px;*/
+    border-right: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    font-weight: 800;
+    font-size: 30px;
+    color: #888;
+    background: #fff;
+}
+.list{
+	text-align: left;
+	justify-content: left;
+	width: 90%;
+	min-width: 90%;
+	margin-top: 60px;
+	text-align: justify;
+	font-size: 15px;
+}
+.abc1{
+	overflow: hidden;
+	float: left;
+	width: 10%;
+}
+.abc{
+	overflow: hidden;
+	float: left;
+	width: 90%;
+	height: auto;
+}
+.abc2{
+	text-align: right;
+	margin-bottom: 20px;
+	font-size: 12px;
+	width: 100%;
+	color: #888888;
+	font-weight: bold;
+}
+a:link{
+	text-decoration: none;
+}
+.bttn{
+	text-align: right;
+	width: 90%;
+	margin-bottom: 30px;
+}
+.btn1{
+	background-color: #fba813;
+	border: none;
+	color: white;
+	padding: 14px 20px;
+	text-align: center;
+	border-radius: 10px;
+	font-weight: bold;
+}
+.header3{
+	height:auto;
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	overflow: hidden;
+}
+.abc11{
+	overflow: hidden;
+	float: left;
+	width: 10%;
+}
+.abc{
+	overflow: hidden;
+	float: left;
+	width: 90%;
+	height: auto;
+}
+.abc22{
+	text-align: right;
+	margin-bottom: 20px;
+	font-size: 12px;
+	width: 100%;
+	color: #888888;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+.footer{
+	height: 150px;
+	margin-right: 0;
+	margin-left: 0;
+	background-color: #004e6c;
+	border-top: 12px solid #550135;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: center;
+}
+.foot{
+	margin: auto;
+	margin-top: 65px;
+	text-align: center;
+	min-height: 10px;
+}
